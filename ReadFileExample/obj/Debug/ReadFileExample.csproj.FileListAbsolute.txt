@@ -1,0 +1,7 @@
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample\bin\Debug\ReadFileExample.exe.config
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample\bin\Debug\ReadFileExample.exe
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample\bin\Debug\ReadFileExample.pdb
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample\obj\Debug\ReadFileExample.csprojAssemblyReference.cache
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample\obj\Debug\ReadFileExample.csproj.CoreCompileInputs.cache
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample\obj\Debug\ReadFileExample.exe
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample\obj\Debug\ReadFileExample.pdb

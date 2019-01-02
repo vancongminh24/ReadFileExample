@@ -1,0 +1,17 @@
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\ReadFileExample.Tests.dll
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\ReadFileExample.Tests.pdb
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\ReadFileExample.exe
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\ReadFileExample.pdb
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\ReadFileExample.exe.config
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\obj\Debug\ReadFileExample.Tests.csprojAssemblyReference.cache
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\obj\Debug\ReadFileExample.Tests.csproj.CoreCompileInputs.cache
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\obj\Debug\ReadFileExample.Tests.csproj.CopyComplete
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\obj\Debug\ReadFileExample.Tests.dll
+C:\Users\vanm\source\repos\ReadFileTtdExample\ReadFileExample.Tests\obj\Debug\ReadFileExample.Tests.pdb
